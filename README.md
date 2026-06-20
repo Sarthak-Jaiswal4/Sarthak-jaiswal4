@@ -1,23 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sarthak Jaiswal</h1>
-<h3 align="center">Building scalable backend systems, real-time apps & AI-powered platforms</h3>
+<h1 align="center">Hey, I'm Sarthak 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-jaiswal4&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-jaiswal4" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-jaiswal4" alt="sarthak-jaiswal4" /></a> </p> -->
-
-- 🌱 I’m currently learning **Distributed Systems and AI workflows**
-
-- 📫 How to reach me **sarthakjazz8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-jaiswal-9b1a17279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-jaiswal-9b1a17279/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sarthakjazz8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarthakjazz8/" height="30" width="40" /></a>
+<p align="center">
+  Full Stack Developer · On-device AI/ML · Building things that actually ship
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-jaiswal-9b1a17279/">LinkedIn</a> ·
+  <a href="mailto:sarthakjazz8@gmail.com">Email</a>
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-jaiswal4&show_icons=true&locale=en&layout=compact" alt="sarthak-jaiswal4" /></p> -->
+---
+
+## What I'm currently doing
+
+Building the Android + ML pipeline at **[Aurviz](https://aurviz.com)** — an AI glasses startup incubated at IIT Delhi.
+
+The pipeline chains: **on-device ASR → TFLite intent classification → slot extraction → BLE photo transfer → Gemini Vision response**
+
+Cut end-to-end latency from **10s → under 4s**.
+
+---
+
+## Projects
+
+### 🔴 [Down Detector](https://github.com/Sarthak-Jaiswal4/Down-Detector) — Uptime Monitoring Platform
+Production uptime monitor modelled after Uptime Robot, built from scratch.
+- HTTP/TCP checks, email alerts (downtime, recovery, SSL expiry), public status pages, maintenance windows
+- 4 BullMQ workers coordinated via Redis pub/sub — result batching, retries, down-retry loop, daily SSL checks
+- Per-monitor Socket.IO rooms stream live latency data to the frontend
+- Turborepo monorepo: Next.js · Express · PostgreSQL · Redis · BullMQ · Prisma · Docker · CI/CD
+
+---
+
+### 🌾 [Sahaay AI](https://github.com/Sarthak-Jaiswal4) — AI Farming Assistant
+AI assistant for farmers over WhatsApp and voice calls.
+- Inngest pipeline: Twilio → weather APIs → Tavily scraper → vector DB + Neo4j knowledge graph
+- GraphRAG for crop–disease–treatment reasoning
+- Stack: Node.js · Python · FastAPI · Neo4j · LangChain · Twilio
+
+---
+
+### 🎨 [SketchBoard](https://github.com/Sarthak-Jaiswal4) — Collaborative Whiteboard
+Real-time multiplayer canvas with production-grade infra.
+- WebSockets + Redis pub/sub for real-time sync across clients
+- Object selection, movement, undo/redo, delete recovery
+- Zero-downtime CI/CD: GitHub Actions → Docker → AWS EC2 rolling updates
+- Stack: Node.js · TypeScript · WebSockets · Redis · Docker · AWS EC2
+
+---
+
+### 🐳 [mini-docker](https://github.com/Sarthak-Jaiswal4/mini-docker) — Container Runtime in Go
+Built a working container runtime from scratch to understand how Docker actually works.
+- Linux namespaces, cgroups v2, OverlayFS, PivotRoot, `SYS_SETNS` for exec
+- Supports image layering, process isolation, and `exec` into running containers
+- Stack: Go · Linux kernel APIs
+
+---
+
+## At Aurviz — what I've actually built
+
+| Component | What |
+|---|---|
+| Intent classifier | TFLite Keras model for fast single-intent queries; FunctionGemma 270M (LiteRT-LM, dynamic_int8) as fallback for complex multi-intent |
+| Slot extraction | GLiNER vs FunctionGemma evaluation across 30-tool inventory; regex for literal slots, FunctionGemma for time-bearing + inference slots |
+| Observability | Pydantic logging schema with typed latency breakdowns; BLE GATT telemetry struct in C → Kotlin ByteBuffer parser |
+| BLE integration | Realtek smart glasses hardware via `GlassesHardwareBridge` (SDK isolation layer); Android as sole internet gateway |
+| Latency reduction | ASR + Gemini TTFT identified as dominant bottlenecks; pipeline brought from 10s → <4s |
+
+---
+
+## Stack
+
+```
+Languages      C++  JavaScript  TypeScript  Python  SQL  Kotlin  Go
+Frontend       React.js  Next.js  GSAP  HTML5  CSS3
+Backend        Node.js  Express.js  WebSockets  Socket.IO  BullMQ  Inngest
+Databases      PostgreSQL  MongoDB  Redis  Neo4j  Prisma
+AI / ML        LangChain  TFLite  LiteRT-LM  Gemini API  RAG  GraphRAG  FastAPI
+DevOps         Docker  AWS (EC2, S3)  GitHub Actions  CI/CD  Prometheus  Grafana
+Android        Kotlin Coroutines  BLE/GATT  on-device ML
+```
+
+---
+
+## Background
+
+- 2nd year B.Tech IT @ **Harcourt Butler Technical University**, Kanpur
+- 450+ DSA problems in C++
+- Hackathons: Enigma @ RIET (cleared 2 rounds) · Brainwave 2.0 @ DTU (presented Sahaay AI)
+
+---
+
+<p align="center">
+  If something here looks interesting, feel free to reach out — <a href="mailto:sarthakjazz8@gmail.com">sarthakjazz8@gmail.com</a>
+</p>
