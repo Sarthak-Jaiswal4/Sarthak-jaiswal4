@@ -64,7 +64,6 @@ Built a working container runtime from scratch to understand how Docker actually
 | Intent classifier | TFLite Keras model for fast single-intent queries; FunctionGemma 270M (LiteRT-LM, dynamic_int8) as fallback for complex multi-intent |
 | Slot extraction | GLiNER vs FunctionGemma evaluation across 30-tool inventory; regex for literal slots, FunctionGemma for time-bearing + inference slots |
 | Observability | Pydantic logging schema with typed latency breakdowns; BLE GATT telemetry struct in C → Kotlin ByteBuffer parser |
-| BLE integration | Realtek smart glasses hardware via `GlassesHardwareBridge` (SDK isolation layer); Android as sole internet gateway |
 | Latency reduction | ASR + Gemini TTFT identified as dominant bottlenecks; pipeline brought from 10s → <4s |
 
 ---
@@ -85,7 +84,7 @@ Android        Kotlin Coroutines  BLE/GATT  on-device ML
 
 ## Background
 
-- 2nd year B.Tech IT @ **Harcourt Butler Technical University**, Kanpur
+- Final year B.Tech IT @ **Harcourt Butler Technical University**, Kanpur
 - 450+ DSA problems in C++
 - Hackathons: Enigma @ RIET (cleared 2 rounds) · Brainwave 2.0 @ DTU (presented Sahaay AI)
 
